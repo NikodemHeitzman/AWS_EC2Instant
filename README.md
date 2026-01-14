@@ -25,7 +25,7 @@ It focuses on setting up virtual infrastructure, managing security policies, and
 * **Cloud Provider:** AWS (Amazon Web Services)
 * **Compute:** EC2 (Elastic Compute Cloud)
 * **OS:** Linux (Amazon Linux 2)
-* **Web Server:** Nginx
+* **Web Server:** Apache
 * **Networking:** VPC, Public Subnets, Security Groups
 
 ## 🚀 Implementation Steps
