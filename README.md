@@ -62,3 +62,8 @@ sudo systemctl enable httpd
 
 # Deploy the "Hello World" landing page
 echo "<h1>Hello World from AWS EC2</h1>" | sudo tee /var/www/html/index.html
+```
+### 4. ## 📈 Key Results
+Successfully validated the deployment via the public IPv4 address. Below is the final dashboard serving live content from the EC2 instance.
+
+![Final Web Dashboard](img/EC2_Website.png)
