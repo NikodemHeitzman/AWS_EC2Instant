@@ -7,8 +7,12 @@ Deployment of a secure, public-facing web server on AWS EC2. Includes Linux admi
 [![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%2F%20Amazon%20Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
 
 ## 📝 Project Overview
-This project demonstrates the end-to-end process of deploying a publicly accessible web server on **Amazon Web Services (AWS)**. It focuses on setting up virtual infrastructure, managing security policies, and configuring a Linux environment for web hosting.
+This project demonstrates the end-to-end process of deploying a publicly accessible web server on **Amazon Web Services (AWS)**.
 
+### 🏗 Architecture Diagram
+![AWS Architecture Diagram](img/architecture.png)
+
+It focuses on setting up virtual infrastructure, managing security policies, and configuring a Linux environment for web hosting.
 
 
 ## 🎯 Objectives
